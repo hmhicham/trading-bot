@@ -5,8 +5,8 @@ from datetime import datetime, timedelta, timezone
 from binance.client import Client
 
 # Set your API key and secret
-api_key = 'TciargnDf3WDndjshzKlg736w1e3PGMyhr3WfGT2uCaPWgKqv3kpHEyT8KadpKmL'
-api_secret = 'T8HhDSeXzGLsUhhhDjMKk33WNuhobZkUVXhuEGUorLcL9xQqcIDCbKWq9304GLwj'
+api_key = '...'
+api_secret = '...'
 
 # # Initialize the Binance client
 client = Client(api_key, api_secret)
